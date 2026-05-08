@@ -12,4 +12,5 @@
 - php artisan key:generate (生成新的应用密钥，非常重要)
 - 配置 .env 中的数据库连接信息。
 - php artisan migrate (迁移数据库)
+- php artisan db:seed (填充数据)
 - npm run build (编译前端资源)
